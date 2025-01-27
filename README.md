@@ -1,11 +1,11 @@
 # Project Name: Lending Club CaseStudy 
 
 ## Table of Contents
-* [Background](https://github.com/ga898/LendingClubCaseStudy/edit/main/README.md#background)
-* [Technologies Used](https://github.com/ga898/LendingClubCaseStudy/edit/main/README.md#technologies-used)
-* [Conclusions](https://github.com/ga898/LendingClubCaseStudy/edit/main/README.md#conculsions)
-* [Acknowledgements](https://github.com/ga898/LendingClubCaseStudy/edit/main/README.md#acknowledgements)
-* [Collaborators](https://github.com/ga898/LendingClubCaseStudy/edit/main/README.md#collaborators)
+* [Background](#background)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conculsions)
+* [Acknowledgements](#acknowledgements)
+* [Collaborators](#collaborators)
 
 ### Background:
 #### Business Understanding
