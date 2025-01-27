@@ -50,6 +50,7 @@ The driving factors that impact defaulting of loan are
 ### Acknowledgements:
 This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
 Special thanks to the team for providing the resources and support for this case study.
+This project was based on [Advance EDA](https://www.youtube.com/watch?v=bNY3Xaxww7g&t=1771s)
 
 
 ### Collaborators:
